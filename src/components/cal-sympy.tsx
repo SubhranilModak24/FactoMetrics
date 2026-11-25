@@ -2134,7 +2134,7 @@ export function CodePage() {
           action={
             <div className="flex gap-2">
               <a
-                href="https://github.com/"
+                href="https://github.com/SubhranilModak24/FactoMetrics/"
                 target="_blank"
                 rel="noreferrer"
                 className={outlineButton}
